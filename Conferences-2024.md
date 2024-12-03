@@ -1,5 +1,5 @@
 # iOS-Conferences-2024
-iOS conferences that are going to take place in 2024
+iOS conferences that took place in 2024.
 
 | Date | Conference | Location | CFP Deadline | Website |
 | :--: | :--: | :--: | :--: | :--: | 
