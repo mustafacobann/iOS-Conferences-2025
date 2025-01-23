@@ -12,3 +12,4 @@
 | 19-21 May 2025 | Swift Craft | Kent, UK 🇬🇧 | 15 Nov 2024 | https://swiftcraft.uk |  
 | 6-7 Oct 2025 | Swift Connection | Paris, France 🇫🇷 | TBA | https://swiftconnection.io |  
 | 7-8 Oct 2025 | SwiftLeeds | Leeds, UK 🇬🇧 | TBA | https://swiftleeds.co.uk |  
+| N/A | iOS Dev UK | Aberystwyth, UK 🇬🇧 | Off for 2025 re-opening in 2026 | https://www.iosdevuk.com/ |
