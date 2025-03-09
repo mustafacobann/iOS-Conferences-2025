@@ -11,4 +11,4 @@
 | 13-15 May 2025 | iOSKonf | Skopje, North Macedonia 🇲🇰 | 31 Jan 2025 | https://www.ioskonf.mk |  
 | 19-21 May 2025 | Swift Craft | Kent, UK 🇬🇧 | 15 Nov 2024 | https://swiftcraft.uk |  
 | 6-7 Oct 2025 | Swift Connection | Paris, France 🇫🇷 | TBA | https://swiftconnection.io |  
-| 7-8 Oct 2025 | SwiftLeeds | Leeds, UK 🇬🇧 | TBA | https://swiftleeds.co.uk |  
+| 7-8 Oct 2025 | SwiftLeeds | Leeds, UK 🇬🇧 | 30 Apr 2025 | https://swiftleeds.co.uk |  
